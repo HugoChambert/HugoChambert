@@ -6,11 +6,8 @@
 
 <h3 align="center">A passionate software developer from France/Thailand 🇫🇷 🇹🇭</h3>
 
-<div align="center"> 
-  <a href="https://linkedin.com/in/hchambert@yahoo.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://HugoChambert.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,javascript" />
 </div>
