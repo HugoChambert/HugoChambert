@@ -10,4 +10,5 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,javascript" />
+    <img src="https://skillicons.dev/icons?i=photoshop,illustrator,indesign,creativecloud" />
 </div>
