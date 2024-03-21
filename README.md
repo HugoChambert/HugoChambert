@@ -7,9 +7,6 @@
 <h3 align="center">A passionate software developer from France/Thailand 🇫🇷 🇹🇭</h3>
 
 <div align="center"> 
-  <a href="mailto:hchambert@yahoo.com">
-    <img src="https://img.shields.io/badge/Yahoo-333333?style=for-the-badge&logo=yahoo&logoColor=blue" />
-  </a>
   <a href="https://linkedin.com/in/hugo chambert" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
