@@ -1,8 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=HugoChambert&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&color=red&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+;+I'm+Hugo+Chambert;" />
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=1BF700&background=000000&center=true&vCenter=true&width=435&lines=Hello%2C+;My+Name+Is+Hugo+Chambert" alt="Typing SVG" /></a>
 
 
 ## 🌐 Socials:
