@@ -11,6 +11,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HugoChambert&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoChambert&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HugoChambert&theme=apprentice)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HugoChambert&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
