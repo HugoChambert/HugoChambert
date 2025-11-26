@@ -20,10 +20,6 @@
 - 📄 Know more about my experiences in my **[Portfolio](https://hugochambert.github.io/FLUGO/)**.
 
 - ✨ Enjoy my GitHub profile.
-
-  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-
 <h2><a id="social-media"></a><img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30"> Social Media</h2>
 <a href="https://linkedin.com/in/hugo-chambert-a82566297" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" /></a> 
 &nbsp;
@@ -76,10 +72,5 @@
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HugoChambert&theme=apprentice)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HugoChambert&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
----
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HugoChambert&theme=apprentice)
 
