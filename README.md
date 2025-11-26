@@ -1,6 +1,25 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nosifer&size=25&pause=1000&color=8C7FB3&background=A2DEFF00&center=true&vCenter=true&width=1035&lines=My+Name+Is+Hugo+Chambert" alt="Typing SVG" /></a>
+<h2><a id="about"></a><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"> About Me</h2>
+
+<img align="right" width="370" height="320" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
+- ⭐ I’m a `Software Developer`, [**`Graphic Designer`**], and [**`Videographer`**].
+  
+- 🚀 Passionate about `Anything new`.
+
+- 💡 Interested in contributing to `Large Scale Projects`.
+
+- 🎯 Focus on `Quality` over `Quantity`
+  
+- 🔍 Seeking an `Internship` or a `Job`.
+
+- 🔄 Repeat `Brainstorming`, `Coding`, and `Debugging`.
+
+- 📄 Know more about my experiences in my **[Portfolio](https://hugochambert.github.io/FLUGO/)**.
+
+- ✨ Enjoy my GitHub profile.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ugo.chambert) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hugo-chambert-a82566297) 
 
