@@ -1,10 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nosifer&size=19&pause=1000&color=C1AFF7&background=A2DEFF00&center=true&vCenter=true&width=435&lines=My+Name+Is+Hugo+Chambert" alt="Typing SVG" /></a>
-
-
-
-[![](https://visitcount.itsvg.in/api?id=HugoChambert&icon=0&color=1BF700)](https://visitcount.itsvg.in)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nosifer&size=25&pause=1000&color=8C7FB3&background=A2DEFF00&center=true&vCenter=true&width=435&lines=My+Name+Is+Hugo+Chambert" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=1BF700&background=000000&center=true&vCenter=true&width=435&lines=Hello%2C+;My+Name+Is+Hugo+Chambert" alt="Typing SVG" /></a>
 ## 🌐 Socials:
