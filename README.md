@@ -73,4 +73,4 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HugoChambert&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HugoChambert&theme=apprentice)
-
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
