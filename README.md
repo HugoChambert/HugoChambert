@@ -67,7 +67,8 @@
 </a>
 
 
-# 📊 GitHub Stats:
+<h2><a id="github-stats"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Github Stats</h2>
+<div align="center">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HugoChambert&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoChambert&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
