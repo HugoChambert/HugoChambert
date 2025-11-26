@@ -36,7 +36,7 @@
 </h3>  
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py, js" />
+  <img src="https://skillicons.dev/icons?i=py,js"/>
 </a>
 
 <h3>
